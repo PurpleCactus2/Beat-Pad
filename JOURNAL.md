@@ -16,7 +16,7 @@
 
 1. [2026-10-19 – Starting the schematic. Everything is till subject to change at this point since I am still planning what the final product will need.](#2026-10-19-starting-the-schematic-everything-is-till-subject)
 2. [2026-10-20 – Researching parts, working on footprints and schematic.](#2026-10-20-researching-parts-working-on-footprints-and-schem)
-3. [2026-10-21 – Finishing up the schematic; researching and adding final parts](#2026-10-21-finishing-up-the-schematic-researching-and-adding)
+3. [2026-10-21 – Almost done with the schematic; researching last major parts](#2026-10-21-almost-done-with-the-schematic-researching-last-m)
 
 ## Design
 
@@ -36,10 +36,10 @@ Researching parts, working on footprints and schematic.
 
 [Timelapse](https://lookout.hackclub.com/api/media/b0a4621d-9905-4e74-9bb3-9e92b76fc3b0/video.mp4)
 
-### 2026-10-21 – Finishing up the schematic; researching and adding final parts
+### 2026-10-21 – Almost done with the schematic; researching last major parts
 
 **1.77h**
 
-Finishing up the schematic; researching and adding final parts
+Almost done with the schematic; researching last major parts
 
 [Timelapse](https://lookout.hackclub.com/api/media/6394e5a7-41b4-4e3f-8de9-8fbbe58e6b3d/video.mp4)
